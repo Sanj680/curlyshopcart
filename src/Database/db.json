@@ -1,0 +1,88 @@
+{
+ 
+    "products":[
+        {
+            "url": "https://cdn.shopify.com/s/files/1/0036/9406/7761/products/10_1024x1024@2x.jpg?v=1646502744",
+            "name":"Scrunchies",
+            "Price": "₹ 150",
+            "id":1,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival" : "5/10/2022",
+            "Best Selling": 10
+        },
+        {
+            "url": "https://m.media-amazon.com/images/I/81AHl5EKHYL._SL1500_.jpg",
+            "name":"Bonnets",
+            "Price": "₹ 650 ",
+            "id":2,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival" : "2/10/2022",
+            "Best Selling": 8
+        },
+        {   
+            "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/1_517daa27-1519-4f6a-955a-628fd5e6b50a_1024x1024@2x.jpg?v=1655396745",
+            "name":"Scarves",
+            "Price":  "₹ 450",
+            "id":3,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival"  : "1/10/2022",
+            "Best Selling": 7
+        },
+        {
+            "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/1_6_f45769d3-edf3-4205-a81e-f1085b0dc60b_1024x1024@2x.jpg?v=1655396980",
+            "name":"Pineapplekeepers",
+            "Price":  "₹ 350",
+            "id":4,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival"  : "4/10/2022",
+            "Best Selling": 9
+        },
+        {
+            "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/T1A_3e6ce6be-92eb-4e5b-971f-f4cf4377143b_1024x1024@2x.jpg?v=1647695925",
+            "name":"Turban Caps",
+            "Price": "₹ 550",
+            "id":5,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival" : "3/10/2022",
+            "Best Selling": 17
+        },
+        {
+            "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/1_3_e24523fa-ac6c-4072-94e4-22ae6cc11c29_1024x1024@2x.jpg?v=1659942851",
+            "name":"Heat Caps",
+            "Price": "₹ 400",
+            "id":6,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival"  : "8/10/2022",
+            "Best Selling": 20
+        },
+        {
+        "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/1_a4f1178e-0330-41a3-a3bf-7cc7f8cb739e_1024x1024@2x.jpg?v=1645711834",
+        "name":"Satin Caps",
+        "Price": "₹ 300",
+        "id":7,
+        "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+        "Newest Arrival" : "7/10/2022",
+        "Best Selling": 12
+        },
+        {
+            "url":"https://cdn.shopify.com/s/files/1/0036/9406/7761/products/Satin_Beanie_6_752d3b44-b35e-4518-acaa-6481488837df_1024x1024@2x.png?v=1655396807",
+            "name":"Satin Beanies",
+            "Price": "₹ 300",
+            "id":8,
+            "description" : "CGM Friendly. Every curly girl's dream product. Flaunt your curls now!!!",
+            "Newest Arrival"  : "6/10/2022",
+            "Best Selling": 18
+            }
+          
+            
+           
+
+
+            
+
+    ]
+
+
+
+
+}
